@@ -20,4 +20,4 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=gammagate&show_icons=true&locale=en" alt="gammagate" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gammagate&show_icons=true&locale=en" alt="gammagate" /></p>
