@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **On my project work for my education**
 
-- 🌱 I’m currently learning **Vue.js and Nuxt.js and and soon I dedicate React**
+- 🌱 I’m currently learning **Vue.js and Nuxt.js and and soon I dedicate Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
