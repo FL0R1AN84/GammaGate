@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">A passionate frontend developer from Germany 🔭 I'm currently looking for new challenges</h3>
+<h3 align="center">A passionate frontend developer from Cologne Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
