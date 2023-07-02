@@ -15,3 +15,7 @@
 
 [![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=fl0r1an84&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=fl0r1an84&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<img src="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/snake.svg" alt="Snake animation" />
+
+###
